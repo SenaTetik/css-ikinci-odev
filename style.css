@@ -1,0 +1,31 @@
+.container{
+     text-align: center; 
+     width: 1100px;
+     margin: auto;
+     font-size:small;
+}
+.bgcolor{
+    background-color: #dddddd;
+    
+}
+.box{
+  float: left;
+  background-color:rgb(94, 192, 148);
+  width:445px ;
+  height: 73px;
+  margin:5px 3px 0 0 ;
+}
+.box2{
+    float: left;
+    width: 200px;
+    height: 73px;
+    background-color:rgb(83, 184, 138) ;
+    margin: 5px 3px 0 0;
+}
+.box3{
+    float:left;
+    width: 449px;
+    height: 73px;
+    background-color:rgb(64, 154, 119);
+    margin: 5px 0 0 0 ;
+}
